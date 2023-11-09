@@ -5,6 +5,6 @@ A program that generates a random number and asks the user to guess it . It also
 a calculator program that performs basic arithmetic
 operations such as addition, subtraction, multiplication, and
 division.
-# Task 2 of c++ programming internship .
+# Task 3 of c++ programming internship .
 a simple console-based Tic-Tac-Toe game that
 allows two players to play against each other
